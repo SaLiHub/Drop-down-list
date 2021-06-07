@@ -1,2 +1,2 @@
-# Drop-down-list
+# Dropdown list
 Using React.js
